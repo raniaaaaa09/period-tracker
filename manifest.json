@@ -1,7 +1,7 @@
 {
   "name": "Flow",
   "short_name": "Flow",
-  "start_url": "acceuil.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#b28e94",
   "theme_color": "#a77474",
