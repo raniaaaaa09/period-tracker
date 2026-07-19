@@ -7,12 +7,12 @@
   "theme_color": "#a77474",
   "icons": [
     {
-      "src": "icons/PIE.jpg",
+      "src": "PIE.jpg",
       "sizes": "997x879",
       "type": "image/jpeg"
     },
     {
-      "src": "icons/PINKY.jpg",
+      "src": "PINKY.jpg",
       "sizes": "736x721",
       "type": "image/jpeg"
     }
