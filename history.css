@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(167, 116, 116);
+}
+header{
+    text-align: center;
+    font-weight: bold;
+}
+#AC{
+    width: 100px;
+    align-self: center;
+    background-color: rgb(210, 156, 165);
+    font-weight: bold;
+    color: black;
+    margin-top: auto;
+}
+
+#cycle-list{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+main{
+   background-color: rgb(178, 142, 148);
+   display: flex;
+   flex-direction: column;
+   width: 500px;
+   min-height: 500px;
+   justify-content: flex-start;
+   padding: 20px;
+   align-items: center;
+   margin: 30px auto;
+   text-align: center;
+   border: 8px solid rgb(148, 85, 85);
+}
+.cycle-item{
+    border: 2px solid rgb(148, 85, 85);
+    background-color: rgb(210, 156, 165);
+    border-radius: 10px;
+    padding: 15px;
+    text-align: left;
+}
+
+#liz{
+    width: 450px;
+   
+    border:3px solid rgb(148, 85, 85); 
+    margin: 10px;
+    padding: 15px;
+}

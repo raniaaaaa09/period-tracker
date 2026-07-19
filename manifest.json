@@ -1,0 +1,20 @@
+{
+  "name": "Flow",
+  "short_name": "Flow",
+  "start_url": "acceuil.html",
+  "display": "standalone",
+  "background_color": "#b28e94",
+  "theme_color": "#a77474",
+  "icons": [
+    {
+      "src": "icons/PIE.jpg",
+      "sizes": "997x879",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "icons/PINKY.jpg",
+      "sizes": "736x721",
+      "type": "image/jpeg"
+    }
+  ]
+}
